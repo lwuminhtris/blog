@@ -5,7 +5,8 @@
   {{ else if (isset .Site.Params "logo") }}
     <div id="logo" style="background-image: url({{ .Site.Params.logo | absURL }})"></div>
   {{ else }}
-    <div id="logo" style="background-image: url({{ "images/logo.png" | absURL }})"></div>
+    <!-- <div id="logo" style="background-image: url({{ "images/logo.png" | absURL }})"></div> -->
+    <div id="logo" style="background-image: url({{ "https://cdn.discordapp.com/attachments/835921395292700776/1021453675459248249/logo.png" | absURL }})"></div>
   {{ end}}
   <div id="title">
     <h1>{{ .Site.Title }}</h1>
