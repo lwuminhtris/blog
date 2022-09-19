@@ -1,4 +1,4 @@
-baseURL = "https://master--astounding-llama-5590a6.netlify.app"
+baseURL = "https://blog-lmtri.netlify.app"
 languageCode = "vi-vn"
 title = "@_lmtri"
 theme = "cactus"
