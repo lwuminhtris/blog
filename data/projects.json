@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name":"Aegis' Destiny",
+      "url":"/projects",
+      "desc":"Dự đoán chiếc khiên bạc kỳ TI11 sẽ thuộc về đội nào."
+    },
+    {
+      "name":"OurBK",
+      "url":"/projects",
+      "desc":"Ứng dụng đa nền tảng cho sinh viên Bách Khoa."
+    }
+  ]
+}
