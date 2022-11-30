@@ -59,7 +59,7 @@ weight = 5
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Không gian cá nhân của @_lmtri, chứa đựng các bài tự viết lẫn bài dịch."
+  description = "lol i should learn more linear algebra and probability and statistics."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -90,10 +90,10 @@ weight = 5
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/ume16"
+    link = "https://github.com/lwuminhtris"
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/luuminhtri/"
   [[params.social]]
     name = "email"
-    link = "minhtri.luu10@gmail.com"  # no need for "mailto:" in the head
+    link = lwuminhtris@gmail.com"  # no need for "mailto:" in the head
